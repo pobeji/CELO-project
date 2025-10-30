@@ -4,6 +4,11 @@ A decentralized, transparent, and tamper-proof voting system built on blockchain
 VoteChain ensures that every vote is counted fairly and prevents double voting through smart contract logic.
 
 ---
+## 🚀 Deployed Smart Contract
+
+Network: Sepolia Testnet
+<br>
+Transaction Address: [0x311a5D7915dC34e7ceE24131f88c1FB69924C383](https://celo-sepolia.blockscout.com/tx/0xbeea75d54e95cf72560012b326a33154e70276c82d1754c15d6ac22f79b24b93)
 
 <img width="903" height="793" alt="Screenshot 2025-10-29 140428" src="https://github.com/user-attachments/assets/670c225c-702e-4f5e-a65f-06be90cbe0ad" />
 
